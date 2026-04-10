@@ -1,7 +1,7 @@
 # 🎙️ Audio Deepfake Detection for Real Conversations
 
-> **Done By**: Dinakar S  
-> **Email**: dinakars2003@gmail.com
+> **Done By**: Justin Joseph S 
+> **Email**: justinjo931@gmail.com
 
 ---
 
